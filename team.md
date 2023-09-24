@@ -1,6 +1,6 @@
 ---
 title: 幹部
-layout: team
+layout: teams
 description: Team
 permalink: "/team/"
 intro_image_absolute: true
