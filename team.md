@@ -1,5 +1,5 @@
 ---
-title: Team
+title: 幹部
 layout: teams
 description: Team
 permalink: "/team/"

@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 聯絡我們
 layout: contact
 description: Contact
 ---

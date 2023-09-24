@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Judge
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"

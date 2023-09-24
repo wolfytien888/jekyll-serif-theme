@@ -1,5 +1,5 @@
 ---
-title: About
+title: 社團簡介
 layout: page
 description: About
 bodyClass: page-about
