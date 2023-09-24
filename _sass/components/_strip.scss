@@ -23,10 +23,10 @@
   background-image: linear-gradient(to bottom, $primary, $secondary);
 }
 .strip-primary {
-  background-color: $black;
+  background-color: $primary;
 }
 .strip-secondary {
-  background-color: $white;
+  background-color: $secondary;
 }
 
 .strip-diagonal-right {
