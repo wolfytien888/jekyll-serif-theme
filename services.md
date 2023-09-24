@@ -1,5 +1,5 @@
 ---
-title: Judge
+title: 社團資源
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"
