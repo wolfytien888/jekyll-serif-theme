@@ -1,5 +1,5 @@
 main:
-  - name: "Judge"
+  - name: "社團資源"
     url: "/services/"
     weight: 2
   - name: "幹部"
