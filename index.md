@@ -1,8 +1,8 @@
 ---
 title: TCIRC 41th 首頁
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: 臺中市立臺中第一高級中等學校,電腦資訊研習社.
+intro_image: "images/illustrations/pointing.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
