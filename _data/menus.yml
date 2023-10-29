@@ -2,7 +2,7 @@ main:
   - name: "社團資源"
     url: "/services/"
     weight: 4
-  - name: "幹部"
+  - name: "幹部介紹"
     url: "/team/"
     weight: 3
   - name: "社團簡介"
